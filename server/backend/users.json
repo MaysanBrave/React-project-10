@@ -1,0 +1,27 @@
+[
+    {
+        "pid": "1",
+        "username": "lee",
+        "image": "./images/users/user1.png", 
+        "email": "lee@gmail.com",
+        "password": "lee",
+        "role":"admin"
+    },
+    {
+        "pid": "2",
+        "username": "alex",
+        "image": "./images/users/user2.png", 
+        "email": "alex@gmail.com",
+        "password": "alex",
+        "role":"user"
+    },
+    {
+        "pid": "3",
+        "username": "yosi",
+        "image": "./images/users/user3.png", 
+        "email": "yosi@gmail.com",
+        "password": "yosi",
+        "role":"user"
+    }
+
+]
