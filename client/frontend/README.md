@@ -8,12 +8,11 @@
 </p>
 
 <h2 align="center">Built with React JS :atom: at core.</h2>
-<h2 align="center"><a href="https://kashkart.netlify.app/"> Live Site </a></h2>
 
 
 ## :bookmark_tabs: Introduction 
 - Mobile Responsive Single Page Application.
-- Ecommerce Store (Frontend ready).
+- Ecommerce Store.
 
 
 ## :technologist: Concepts/Tech Stack Used
